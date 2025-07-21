@@ -1,0 +1,101 @@
+{
+  "pensamentos": [
+    {
+      "id": "2a56",
+      "conteudo": "Vc faz TI? Conserta meu celular!",
+      "autoria": "Grupo da família",
+      "data": "2025-05-02"
+    },
+    {
+      "id": "5b8a",
+      "favorito": true,
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "Dev",
+      "data": "2025-01-02T09:30:00.000Z"
+    },
+    {
+      "id": "68uy",
+      "favorito": false,
+      "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
+      "autoria": "Chaves",
+      "data": "2025-01-03T14:15:00.000Z"
+    },
+    {
+      "id": "b807",
+      "favorito": false,
+      "conteudo": "Melhor professor, o fracasso é!",
+      "autoria": "Mestre Yoda",
+      "data": "2025-01-04T17:45:00.000Z"
+    },
+    {
+      "id": "9f3c",
+      "favorito": false,
+      "conteudo": "Você não é todo mundo!",
+      "autoria": "Mãe",
+      "data": "2025-01-05T12:00:00.000Z"
+    },
+    {
+      "id": "6a2b",
+      "favorito": false,
+      "conteudo": "Foi sem querer querendo!",
+      "autoria": "Chaves",
+      "data": "2025-01-06T10:20:00.000Z"
+    },
+    {
+      "id": "7e2a",
+      "favorito": false,
+      "conteudo": "Que a força esteja com você!",
+      "autoria": "Mestre Yoda",
+      "data": "2025-01-07T19:00:00.000Z"
+    },
+    {
+      "id": "5c8f",
+      "favorito": false,
+      "conteudo": "Resolver o bug não consegue? Esfriar a cabeça vc deve.",
+      "autoria": "Mestre Yoda",
+      "data": "2025-01-08T11:45:00.000Z"
+    },
+    {
+      "id": "2d6e",
+      "favorito": false,
+      "conteudo": "Não faça drama, faça café! :)",
+      "autoria": "Dev",
+      "data": "2025-01-09T16:30:00.000Z"
+    },
+    {
+      "id": "3f1a",
+      "favorito": false,
+      "conteudo": "Conserta minha impressora?",
+      "autoria": "Grupo da família",
+      "data": "2025-01-10T13:00:00.000Z"
+    },
+    {
+      "id": "8b4c",
+      "favorito": false,
+      "conteudo": "A vingança nunca é plena... mata a alma e a envenena...",
+      "autoria": "Seu Madruga",
+      "data": "2025-01-11T07:15:00.000Z"
+    },
+    {
+      "id": "4d2e",
+      "favorito": false,
+      "conteudo": "Se eu for aí e achar, eu esfrego na sua cara!",
+      "autoria": "Mãe",
+      "data": "2025-01-12T18:10:00.000Z"
+    },
+    {
+      "id": "f5bb",
+      "favorito": false,
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "Dev",
+      "data": "2025-01-13T15:40:00.000Z"
+    },
+    {
+      "id": "f823",
+      "conteudo": "Na minha maquina funciona",
+      "autoria": "Dev",
+      "data": "2025-07-14T00:00:00.000Z",
+      "favorito": false
+    }
+  ]
+}
